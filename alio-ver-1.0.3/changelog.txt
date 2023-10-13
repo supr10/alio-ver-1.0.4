@@ -1,0 +1,7 @@
+
+alio version 1.0.2
+
+-added a "freeze option"
+-added a stack overflow button (for programmers)
+
+i hope you'll enjoy this update as the others!
